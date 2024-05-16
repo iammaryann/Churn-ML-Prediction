@@ -1,4 +1,4 @@
-# Churn-ML-Prediction
+# Customer Churn Machine Learning Prediction Model
 
 
 ![image](https://github.com/iammaryann/Churn-ML-Prediction/assets/169622423/0f42bdec-7ddf-40d5-acc1-b131fb8290c1)
