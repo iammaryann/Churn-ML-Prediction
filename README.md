@@ -1,7 +1,7 @@
 # Churn-ML-Prediction
 
 
-churn%2F&psig=AOvVaw3lhrAEbX3aZrFMYkhhSQQ1&ust=1715929198793000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj-ucXMkYYDFQAAAAAdAAAAABAE![image](https://github.com/iammaryann/Churn-ML-Prediction/assets/169622423/0f42bdec-7ddf-40d5-acc1-b131fb8290c1)
+![image](https://github.com/iammaryann/Churn-ML-Prediction/assets/169622423/0f42bdec-7ddf-40d5-acc1-b131fb8290c1)
 
 
 
